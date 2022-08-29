@@ -1,7 +1,11 @@
 # social-network-api
 
 
+# About
 
+
+# Deployment 🚀
+This homework was ran on insomnia.
 
 
 # Preview 
