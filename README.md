@@ -1,8 +1,8 @@
 # social-network-api
-This assignment helped me understand the cohision between the backend, mangodb, and insomnia.
+This assignment helped me understand the cohesion between the backend, mangodb, and insomnia.
 
 # About
-This assignment was created to demenstrate how working with social media platforms worked. 
+This assignment was created to demonstrate how working with social media platforms worked. 
 
 # Deployment 🚀
 This homework was ran on insomnia.
